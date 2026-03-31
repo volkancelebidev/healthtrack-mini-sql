@@ -1,0 +1,26 @@
+[
+  {
+    "id": "P001",
+    "name": "Alice Kaya",
+    "age": 35,
+    "weight": 70.0,
+    "height": 165.0,
+    "blood_type": "Unknown"
+  },
+  {
+    "id": "P002",
+    "name": "Bob Demir",
+    "age": 28,
+    "weight": 95.0,
+    "height": 175.0,
+    "blood_type": "Unknown"
+  },
+  {
+    "id": "P003",
+    "name": "Carol Yıldız",
+    "age": 52,
+    "weight": 45.0,
+    "height": 160.0,
+    "blood_type": "Unknown"
+  }
+]
