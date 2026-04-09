@@ -42,7 +42,9 @@ aggregated reporting.
 ## Project Structure
 ```
 healthtrack-mini-sql/
-└── main.py    # Single-module implementation
+├── models.py          # Patient domain model with BMI calculation
+├── sql_mini_project.py # Database access and CRUD operations
+└── utils.py           # Helper functions and data export
 ```
 ---
 
